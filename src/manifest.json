@@ -1,0 +1,13 @@
+{
+  "name": "InvalidateChatWorkEmoticon",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "ChatWork のエモーティコン(絵文字)を無効にする拡張。",
+  "content_scripts": [
+    {
+      "matches": ["https://www.chatwork.com/*"], 
+      "js": ["jquery.min.js", "jquery.inview.min.js", "script.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
