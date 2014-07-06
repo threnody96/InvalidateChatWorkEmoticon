@@ -4,11 +4,11 @@
 ## Install
 
 ### Google Chrome
-Chrome Web Store には公開していません。
-  Invalidatechatworkemoticon.crx をダウンロードして、 
-  Chrome の拡張機能のページにドラッグ＆ドロップしてインストールしてください。
+Chrome Web Store には公開していません。  
+Invalidatechatworkemoticon.crx をダウンロードして、  
+Chrome の拡張機能のページにドラッグ＆ドロップしてインストールしてください。
 
 ### FireFox
-Invalidatechatworkemoticon.xpi をダウンロードして、
-  ダウンロードしたファイルを FIreFox にドラッグ＆ドロップしてインストールしてください。
+Invalidatechatworkemoticon.xpi をダウンロードして、  
+ダウンロードしたファイルを FIreFox にドラッグ＆ドロップしてインストールしてください。
 
